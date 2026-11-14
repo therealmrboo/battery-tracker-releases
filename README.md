@@ -4,7 +4,7 @@ Battery Charging Tracker is a Windows program for battery shops: check batteries
 
 ## Download
 
-**[Get the newest version](https://github.com/therealmrboo/battery-tracker-releases/releases/latest)**, then under **Assets** click **BatteryTrackerSetup-....exe**.
+**[Get the newest version](https://github.com/Enphinium/battery-tracker-releases/releases/latest)**, then under **Assets** click **BatteryTrackerSetup-....exe**.
 
 - You need an **install key** to install it. Contact Enphinium Studios if you don't have one.
 - Needs Windows 10 (version 1809 or later) or Windows 11, 64-bit.
